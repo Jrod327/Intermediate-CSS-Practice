@@ -52,6 +52,7 @@ p {
     margin-bottom: 50px;
     height: 400px;
     width: 700px;
+    display: inline-block;
 }
 .jrod {
     margin-top: 25px;
@@ -79,7 +80,7 @@ p {
 }
 .socials {
     margin: 20px;
-    display: inline;
+    display: inline-block;
 }
 .td {
     margin-right: 30px;
