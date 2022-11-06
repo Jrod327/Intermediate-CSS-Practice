@@ -1,0 +1,86 @@
+body {
+    background-color: #c4d7ff;
+    text-align: center;
+    font-family: 'Source Code Pro', serif;
+    color: #000000;
+}
+hr {
+    height: 2px;
+    background-color: #7b9ee6;
+    border: none;
+  }
+h1 {
+    font-family: 'Source Code Pro', cursive;
+    font-size: 80px;
+}
+h2 {
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: 50px;
+}
+h3 {
+    font-family: 'Source Code Pro', sans-serif;
+    text-align: center;
+}
+p {
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: 30px;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 50px;
+}
+.middle-container {
+    text-align: center;
+}
+.top-tag {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    right: 1000px;
+    top: 50px;
+}
+.bottom-tag {
+    height: 170px;
+    width: 170px;
+    position: absolute;
+    left: 960px;
+    bottom: 450px;
+}
+.coding {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 400px;
+    width: 700px;
+}
+.jrod {
+    margin-top: 25px;
+    height: 200px;
+    width: 200px;
+}
+.skills-img {
+    height: 200px;
+    width: 200px;
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+.skills-table {
+    text-align: left;
+}
+.skill-row {
+    text-align: center;
+    display: inline-block;
+}
+.social-icons {
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-bottom: -10px;
+}
+.socials {
+    margin: 20px;
+    display: inline;
+}
+.td {
+    margin-right: 30px;
+}
