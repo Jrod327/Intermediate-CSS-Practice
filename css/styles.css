@@ -29,6 +29,7 @@ p {
 .top-container {
     position: relative;
     padding-top: 50px;
+    display: inline-block;
 }
 .middle-container {
     text-align: center;
@@ -37,14 +38,14 @@ p {
     height: 150px;
     width: 150px;
     position: absolute;
-    right: 1000px;
-    top: 50px;
+    right: 600px;
+    top: 30px;
 }
 .bottom-tag {
     height: 170px;
     width: 170px;
     position: absolute;
-    left: 960px;
+    left: 580px;
     bottom: 450px;
 }
 .coding {
